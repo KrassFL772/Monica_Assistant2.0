@@ -48,3 +48,80 @@
 1. Clonar repositorio:
    ```bash
    git clone https://github.com/KrassFL772/Monica_Assistant2.0.git
+
+--------------------------------------------------------------------------------------------
+
+Acceder al proyecto:
+
+cd monica-assistant
+
+Instalar dependencias:
+
+npm install
+
+Ejecutar en modo desarrollo:
+
+npm run dev
+
+--------------------------------------------------------------------------------------------
+
+Ejecución de pruebas manuales
+
+Navegar por los módulos de instalación.
+Validar tiempos de respuesta.
+Simular múltiples solicitudes concurrentes.
+Revisar logs de errores y rendimiento.
+
+(Automatización recomendada futura: Cypress + Jenkins)
+
+---------------------------------------------------------------------------------------------
+
+Implementación en producción:
+
+npm run build
+
+---------------------------------------------------------------------------------------------
+
+Despliegue en nube (ej. Heroku o servidor interno)
+
+Configurar variables de entorno.
+Generar build de producción.
+Publicar en servidor web interno o nube privada.
+
+
+🔧 Configuración
+Archivos de configuración
+
+Variables de entorno (.env)
+Configuración de API endpoints
+Parámetros de autenticación
+
+Configuración de requerimientos
+
+Acceso a API corporativa
+Permisos LDAP/JWT
+Conexiones seguras internas
+
+
+📘 Uso
+Referencia para usuario final
+Manual del usuario interno:
+
+Solicitar instalaciones
+Consultar estados
+Interacción con asistente virtual
+Confirmación visual de procesos
+
+Disponible en:
+
+Wiki del proyecto
+Intranet corporativa
+
+
+Referencia para usuario administrador
+Manual administrativo:
+
+Monitoreo de procesos
+Revisión de logs
+Validación de KPIs
+Configuración de servicios
