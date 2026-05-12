@@ -1,0 +1,50 @@
+---
+
+## 📚 Tabla de Contenidos (ToC)
+
+- #-descripción
+- #-problema-identificado
+- #-solución-propuesta
+- #-arquitectura
+- #-requerimientos
+- #-instalación
+- #-configuración
+- #-uso
+- #-contribución
+- #-roadmap
+
+📌 Documentación extendida:
+- Wiki del repositorio
+- ReadTheDocs (opcional)
+
+---
+
+## ⚙ Requerimientos
+
+### Infraestructura
+- Servidor web interno
+- Servidor de aplicación
+- Base de datos corporativa
+
+### Software
+- **Node.js:** 18+
+- **React.js:** 18+
+- **Vite**
+- **NPM**
+- **Git**
+
+### Librerías principales
+- Axios
+- Tailwind CSS
+- Chatbotify
+- JWT Decode
+
+---
+
+## 🚀 Instalación
+
+### Ambiente de desarrollo
+
+1. Clonar repositorio:
+   ```bash
+   git clone https://github.com/KrassFL772/Monica_Assistant2.0.git
